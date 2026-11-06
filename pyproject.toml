@@ -1,0 +1,15 @@
+[project]
+name = "venv"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "serhiiur", email = "serhiiur@duck.com" }
+]
+requires-python = ">=3.12, <3.13"
+dependencies = [
+    "dotenv>=0.9.9",
+    "jupyter>=1.1.1",
+    "openai>=3.46.0",
+    "typesafe-sdk>=0.7.5",
+]
