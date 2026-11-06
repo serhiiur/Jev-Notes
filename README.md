@@ -21,9 +21,11 @@ Step 1. Install dependencies:
 uv sync
 ```
 
-Step 2. Explore the [Notebook](./main.ipynb)
+Step 2. Create the <ins>.env</ins> file with your OpenRouter API key. See [.env example](./.env.example)
 
-Step 3. Select the kernel (<ins>./venv/bin/python</ins>), and run the cells.
+Step 3. Explore the [Notebook](./main.ipynb)
+
+Step 4. Select the kernel (<ins>./venv/bin/python</ins>), and run the cells.
 
 
 ## Jev Notes
