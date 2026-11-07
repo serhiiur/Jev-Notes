@@ -4,7 +4,7 @@ Notes and example on using Jev.
 
 ## Prerequisites
 
-In this project we use Jev with OpenRouter. See more in the official OpenRouter's [documentation](https://openrouter.ai/docs/guides/community/jev).
+In this project we use Jev(1.14) with OpenRouter. See more in the official OpenRouter's [documentation](https://openrouter.ai/docs/guides/community/jev).
 
 
 ## Requirements
